@@ -1,6 +1,7 @@
 How It Works
 
-HTML: Defines the basic structure of the page with a header, a post form, and a feed area.
+HTML: Defines the basic structure of the page with a header, a post form, and a feed areas
+
 CSS: Styles the page to look clean and simple.
 JavaScript: Handles the logic for toggling the post form visibility and adding new posts to the feed.
 
