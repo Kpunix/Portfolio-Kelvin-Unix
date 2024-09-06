@@ -1,7 +1,7 @@
 ## Portfolio-Website
 
-<a href="https://github.com/SauravMukherjee44/Portfolio-Saurav-Mukherjee"><img src="https://sloc.xyz/github/SauravMukherjee44/Portfolio-Saurav-Mukherjee" alt="LOC"/></a>
-<a href="https://github.com/SauravMukherjee44/Portfolio-Saurav-Mukherjee"><img src="https://img.shields.io/github/stars/Kpunix/Portfolio-Kelvin-Unix" alt="Stars Badge"/></a>
+<a href="https://github.com/Kpunix/Portfolio-Kelvin-Unix"><img src="https://sloc.xyz/github/Kpunix/Portfolio-Kelvin-Unix" alt="LOC"/></a>
+<a href="https://github.com/Kpunix/Portfolio-Kelvin-Unix"><img src="https://img.shields.io/github/stars/Kpunix/Portfolio-Kelvin-Unix" alt="Stars Badge"/></a>
 <a href="https://github.com/Kpunix/Portfolio-Kelvin-Unix/network/members"><img src="https://img.shields.io/github/forks/Kpunix/Portfolio-Kelvin-Unix" alt="Forks Badge"/></a>
 <a href="https://github.com/Kpunix/Portfolio-Kelvin-Unix/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Kpunix/Portfolio-Kelvin-Unix?color=2b9348"></a>
 
